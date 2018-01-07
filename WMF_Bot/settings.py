@@ -57,7 +57,7 @@ SPIDER_MIDDLEWARES = {
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
-SPLASH_URL = 'http://localhost:8050/'
+SPLASH_URL = 'http://192.168.59.103:8050/'
 
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_splash.SplashCookiesMiddleware': 723,

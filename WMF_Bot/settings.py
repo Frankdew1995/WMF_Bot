@@ -39,15 +39,15 @@ DOWNLOAD_DELAY = 3
 #TELNETCONSOLE_ENABLED = False
 
 # # Override the default request headers:
-HEADERS = {
-  'Accept': '*/*',
-  'Accept-Language': 'en,zh;q=0.9,zh-CN;q=0.8,en-US;q=0.7',
-'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+# HEADERS = {
+#   'Accept': '*/*',
+#   'Accept-Language': 'en,zh;q=0.9,zh-CN;q=0.8,en-US;q=0.7',
+# 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
 
-'referer': 'https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1514934548259&k=6LekTicUAAAAACZMK-qKBQ1rHto-e5jtObCXCtLs',
+# 'referer': 'https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1514934548259&k=6LekTicUAAAAACZMK-qKBQ1rHto-e5jtObCXCtLs',
 
-'cookie':'CONSENT=YES+DE.zh-CN+20150712-15-0; OTZ=4205312_52_52_123900_48_436380; SID=mAWQiipiwAv7TDm-gduPALU12dO5vb9_Zf5FNX9oULJnmYuu8TlRpVXYGXFr3rVGC1qTyg.; HSID=A0BYsz6XjlLOeTFiU; SSID=A31K2Fwo4oZXdEPDA; APISID=xie7ONEkkOix72lH/AiiaDOkeQX_2vESo9; SAPISID=myFhtnCX7LkINXdd/APZjL-ImxdPlAob_b; NID=121=QhN_-BoLrJ1TOXS4VDn6DVMI7gZF0nctnTQK2Quta5F2tmJTj9M3Wx1Bc6SJwVnuwKvYYLwJxBfslHJVVurRARS0_9GZDskqXr4SSItG3m560VGDPf5Us-lkF5dVRC02J-97SV9VPh_sCpYUdf16R8cvChh5FeW-cRF6nU_YVL9s4zu9VENY3m9uny1IGxPVnoBUKTWNIiFLpqeDfQQk-vuJgc6zOIEvt0uXQwG09VScEbEiGqveLr3vFFlBWNTBBlUslHO1; 1P_JAR=2018-1-7-10; SIDCC=AAiTGe_T00Df9uHp60cktafsV-xdJgSvjT13-PfDW_NBPZzH1NQZsGMAxAqNUo5iWE2T2Nx5kQg',
-}
+# 'cookie':'CONSENT=YES+DE.zh-CN+20150712-15-0; OTZ=4205312_52_52_123900_48_436380; SID=mAWQiipiwAv7TDm-gduPALU12dO5vb9_Zf5FNX9oULJnmYuu8TlRpVXYGXFr3rVGC1qTyg.; HSID=A0BYsz6XjlLOeTFiU; SSID=A31K2Fwo4oZXdEPDA; APISID=xie7ONEkkOix72lH/AiiaDOkeQX_2vESo9; SAPISID=myFhtnCX7LkINXdd/APZjL-ImxdPlAob_b; NID=121=QhN_-BoLrJ1TOXS4VDn6DVMI7gZF0nctnTQK2Quta5F2tmJTj9M3Wx1Bc6SJwVnuwKvYYLwJxBfslHJVVurRARS0_9GZDskqXr4SSItG3m560VGDPf5Us-lkF5dVRC02J-97SV9VPh_sCpYUdf16R8cvChh5FeW-cRF6nU_YVL9s4zu9VENY3m9uny1IGxPVnoBUKTWNIiFLpqeDfQQk-vuJgc6zOIEvt0uXQwG09VScEbEiGqveLr3vFFlBWNTBBlUslHO1; 1P_JAR=2018-1-7-10; SIDCC=AAiTGe_T00Df9uHp60cktafsV-xdJgSvjT13-PfDW_NBPZzH1NQZsGMAxAqNUo5iWE2T2Nx5kQg',
+# }
 
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
